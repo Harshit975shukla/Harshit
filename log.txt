@@ -1,0 +1,67 @@
+#################### Honeypot log
+
+  HONEYPOT ACTIVATED ON PORT 31337 (2018-07-12 15:54:13 -0400)
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.1:45680 (2018-07-12 15:55:46 -0400)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.124:31337
+Connection: keep-alive
+Save-Data: on
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.1:45681 (2018-07-12 15:55:48 -0400)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.124:31337
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Save-Data: on
+User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.1:45683 (2018-07-12 15:55:55 -0400)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.124:31337
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Save-Data: on
+User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.1:45687 (2018-07-12 15:56:28 -0400)
+ -----------------------------
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.1:45692 (2018-07-12 15:56:29 -0400)
+ -----------------------------
+GET / HTTP/1.1
+Host: 192.168.43.124:31337
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Save-Data: on
+User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+
+
+  INTRUSION ATTEMPT DETECTED! from 192.168.43.1:45693 (2018-07-12 15:56:42 -0400)
+ -----------------------------
+
